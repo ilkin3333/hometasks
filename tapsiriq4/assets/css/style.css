@@ -1,0 +1,18 @@
+body{background-image: url(/tapsiriq4/assets/image/akula_2.jpg);
+background-attachment: fixed;
+background-position: top center;
+background-repeat: no-repeat;
+background-size: 100%;
+}
+#main{
+    padding: 55px;
+    width: 500px;
+    height: 200px;
+    background-color: rgba(69, 164, 199, 0.5);
+    
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
+}
